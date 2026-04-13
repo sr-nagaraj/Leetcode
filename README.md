@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sr-nagaraj/Leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/sr-nagaraj/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
